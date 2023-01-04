@@ -1,3 +1,3 @@
-# Sentence-Tagging
+# Sentence Tagging
 
 # NLP and CC project
